@@ -1,0 +1,10 @@
+EmployeeKey,EmployeeFullName,FirstName,LastName,Title,City,Country
+1.0,Nancy Davolio,Nancy,Davolio,Sales Representative,Seattle,USA
+2.0,Andrew Fuller,Andrew,Fuller,"Vice President, Sales",Tacoma,USA
+3.0,Janet Leverling,Janet,Leverling,Sales Representative,Kirkland,USA
+4.0,Margaret Peacock,Margaret,Peacock,Sales Representative,Redmond,USA
+5.0,Steven Buchanan,Steven,Buchanan,Sales Manager,London,UK
+6.0,Michael Suyama,Michael,Suyama,Sales Representative,London,UK
+7.0,Robert King,Robert,King,Sales Representative,London,UK
+8.0,Laura Callahan,Laura,Callahan,Inside Sales Coordinator,Seattle,USA
+9.0,Anne Dodsworth,Anne,Dodsworth,Sales Representative,London,UK

@@ -1,0 +1,92 @@
+CustomerKey,CustomerName,CustomerCity,CustomerCountry,Phone
+ALFKI,Alfreds Futterkiste,Berlin,Germany,030-0074321
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,(5) 555-4729
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,(5) 555-3932
+AROUT,Around the Horn,London,UK,(171) 555-7788
+BERGS,Berglunds snabbköp,Luleå,Sweden,0921-12 34 65
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,0621-08460
+BLONP,Blondesddsl père et fils,Strasbourg,France,88.60.15.31
+BOLID,Bólido Comidas preparadas,Madrid,Spain,(91) 555 22 82
+BONAP,Bon app',Marseille,France,91.24.45.40
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,(604) 555-4729
+BSBEV,B's Beverages,London,UK,(171) 555-1212
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,(1) 135-5555
+CENTC,Centro comercial Moctezuma,México D.F.,Mexico,(5) 555-3392
+CHOPS,Chop-suey Chinese,Bern,Switzerland,0452-076545
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,(11) 555-7647
+CONSH,Consolidated Holdings,London,UK,(171) 555-2282
+DRACD,Drachenblut Delikatessen,Aachen,Germany,0241-039123
+DUMON,Du monde entier,Nantes,France,40.67.88.88
+EASTC,Eastern Connection,London,UK,(171) 555-0297
+ERNSH,Ernst Handel,Graz,Austria,7675-3425
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,(11) 555-9857
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain,(91) 555 94 44
+FOLIG,Folies gourmandes,Lille,France,20.16.10.16
+FOLKO,Folk och fä HB,Bräcke,Sweden,0695-34 67 21
+FRANK,Frankenversand,München,Germany,089-0877310
+FRANR,France restauration,Nantes,France,40.32.21.21
+FRANS,Franchi S.p.A.,Torino,Italy,011-4988260
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,(1) 354-2534
+GALED,Galería del gastrónomo,Barcelona,Spain,(93) 203 4560
+GODOS,Godos Cocina Típica,Sevilla,Spain,(95) 555 82 82
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,(11) 555-9482
+GREAL,Great Lakes Food Market,Eugene,USA,(503) 555-7555
+GROSR,GROSELLA-Restaurante,Caracas,Venezuela,(2) 283-2951
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,(21) 555-0091
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,(5) 555-1340
+HUNGC,Hungry Coyote Import Store,Elgin,USA,(503) 555-6874
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,2967 542
+ISLAT,Island Trading,Cowes,UK,(198) 555-8888
+KOENE,Königlich Essen,Brandenburg,Germany,0555-09876
+LACOR,La corne d'abondance,Versailles,France,30.59.84.10
+LAMAI,La maison d'Asie,Toulouse,France,61.77.61.10
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,(604) 555-3392
+LAZYK,Lazy K Kountry Store,Walla Walla,USA,(509) 555-7969
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,069-0245984
+LETSS,Let's Stop N Shop,San Francisco,USA,(415) 555-5938
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,(9) 331-6954
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,(8) 34-56-12
+LONEP,Lonesome Pine Restaurant,Portland,USA,(503) 555-9573
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,035-640230
+MAISD,Maison Dewey,Bruxelles,Belgium,(02) 201 24 67
+MEREP,Mère Paillarde,Montréal,Canada,(514) 555-8054
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,0342-023176
+NORTS,North/South,London,UK,(171) 555-7733
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,(1) 135-5333
+OLDWO,Old World Delicatessen,Anchorage,USA,(907) 555-7584
+OTTIK,Ottilies Käseladen,Köln,Germany,0221-0644327
+PARIS,Paris spécialités,Paris,France,(1) 42.34.22.66
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,(5) 552-3745
+PICCO,Piccolo und mehr,Salzburg,Austria,6562-9722
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,(1) 356-5634
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,(21) 555-4252
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,(11) 555-1189
+QUICK,QUICK-Stop,Cunewalde,Germany,0372-035188
+RANCH,Rancho grande,Buenos Aires,Argentina,(1) 123-5555
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,(505) 555-5939
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,0522-556721
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,(21) 555-3412
+RICSU,Richter Supermarkt,Genève,Switzerland,0897-034214
+ROMEY,Romero y tomillo,Madrid,Spain,(91) 745 6200
+SANTG,Santé Gourmet,Stavern,Norway,07-98 92 35
+SAVEA,Save-a-lot Markets,Boise,USA,(208) 555-8097
+SEVES,Seven Seas Imports,London,UK,(171) 555-1717
+SIMOB,Simons bistro,Kobenhavn,Denmark,31 12 34 56
+SPECD,Spécialités du monde,Paris,France,(1) 47.55.60.10
+SPLIR,Split Rail Beer & Ale,Lander,USA,(307) 555-4680
+SUPRD,Suprêmes délices,Charleroi,Belgium,(071) 23 67 22 20
+THEBI,The Big Cheese,Portland,USA,(503) 555-3612
+THECR,The Cracker Box,Butte,USA,(406) 555-5834
+TOMSP,Toms Spezialitäten,Münster,Germany,0251-031259
+TORTU,Tortuga Restaurante,México D.F.,Mexico,(5) 555-2933
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,(11) 555-2167
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,(206) 555-8257
+VAFFE,Vaffeljernet,Århus,Denmark,86 21 32 43
+VICTE,Victuailles en stock,Lyon,France,78.32.54.86
+VINET,Vins et alcools Chevalier,Reims,France,26.47.15.10
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,0711-020361
+WARTH,Wartian Herkku,Oulu,Finland,981-443655
+WELLI,Wellington Importadora,Resende,Brazil,(14) 555-8122
+WHITC,White Clover Markets,Seattle,USA,(206) 555-4112
+WILMK,Wilman Kala,Helsinki,Finland,90-224 8858
+WOLZA,Wolski  Zajazd,Warszawa,Poland,(26) 642-7012

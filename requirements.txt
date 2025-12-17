@@ -1,0 +1,7 @@
+# Northwind BI Project Dependencies
+# Python 3.13
+
+pandas==2.1.4
+pyodbc==5.0.1
+streamlit==1.29.0
+plotly==5.18.0

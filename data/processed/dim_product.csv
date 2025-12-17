@@ -1,0 +1,78 @@
+ProductKey,ProductName,UnitPrice,CategoryName,Discontinued
+1,Chai,18.0,Beverages,False
+2,Chang,19.0,Beverages,False
+3,Aniseed Syrup,10.0,Condiments,False
+4,Chef Anton's Cajun Seasoning,22.0,Condiments,False
+5,Chef Anton's Gumbo Mix,21.35,Condiments,True
+6,Grandma's Boysenberry Spread,25.0,Condiments,False
+7,Uncle Bob's Organic Dried Pears,30.0,Produce,False
+8,Northwoods Cranberry Sauce,40.0,Condiments,False
+9,Mishi Kobe Niku,97.0,Meat/Poultry,True
+10,Ikura,31.0,Seafood,False
+11,Queso Cabrales,21.0,Dairy Products,False
+12,Queso Manchego La Pastora,38.0,Dairy Products,False
+13,Konbu,6.0,Seafood,False
+14,Tofu,23.25,Produce,False
+15,Genen Shouyu,15.5,Condiments,False
+16,Pavlova,17.45,Confections,False
+17,Alice Mutton,39.0,Meat/Poultry,True
+18,Carnarvon Tigers,62.5,Seafood,False
+19,Teatime Chocolate Biscuits,9.2,Confections,False
+20,Sir Rodney's Marmalade,81.0,Confections,False
+21,Sir Rodney's Scones,10.0,Confections,False
+22,Gustaf's Knäckebröd,21.0,Grains/Cereals,False
+23,Tunnbröd,9.0,Grains/Cereals,False
+24,Guaraná Fantástica,4.5,Beverages,True
+25,NuNuCa Nuß-Nougat-Creme,14.0,Confections,False
+26,Gumbär Gummibärchen,31.23,Confections,False
+27,Schoggi Schokolade,43.9,Confections,False
+28,Rössle Sauerkraut,45.6,Produce,True
+29,Thüringer Rostbratwurst,123.79,Meat/Poultry,True
+30,Nord-Ost Matjeshering,25.89,Seafood,False
+31,Gorgonzola Telino,12.5,Dairy Products,False
+32,Mascarpone Fabioli,32.0,Dairy Products,False
+33,Geitost,2.5,Dairy Products,False
+34,Sasquatch Ale,14.0,Beverages,False
+35,Steeleye Stout,18.0,Beverages,False
+36,Inlagd Sill,19.0,Seafood,False
+37,Gravad lax,26.0,Seafood,False
+38,Côte de Blaye,263.5,Beverages,False
+39,Chartreuse verte,18.0,Beverages,False
+40,Boston Crab Meat,18.4,Seafood,False
+41,Jack's New England Clam Chowder,9.65,Seafood,False
+42,Singaporean Hokkien Fried Mee,14.0,Grains/Cereals,True
+43,Ipoh Coffee,46.0,Beverages,False
+44,Gula Malacca,19.45,Condiments,False
+45,Rogede sild,9.5,Seafood,False
+46,Spegesild,12.0,Seafood,False
+47,Zaanse koeken,9.5,Confections,False
+48,Chocolade,12.75,Confections,False
+49,Maxilaku,20.0,Confections,False
+50,Valkoinen suklaa,16.25,Confections,False
+51,Manjimup Dried Apples,53.0,Produce,False
+52,Filo Mix,7.0,Grains/Cereals,False
+53,Perth Pasties,32.8,Meat/Poultry,True
+54,Tourtière,7.45,Meat/Poultry,False
+55,Pâté chinois,24.0,Meat/Poultry,False
+56,Gnocchi di nonna Alice,38.0,Grains/Cereals,False
+57,Ravioli Angelo,19.5,Grains/Cereals,False
+58,Escargots de Bourgogne,13.25,Seafood,False
+59,Raclette Courdavault,55.0,Dairy Products,False
+60,Camembert Pierrot,34.0,Dairy Products,False
+61,Sirop d'érable,28.5,Condiments,False
+62,Tarte au sucre,49.3,Confections,False
+63,Vegie-spread,43.9,Condiments,False
+64,Wimmers gute Semmelknödel,33.25,Grains/Cereals,False
+65,Louisiana Fiery Hot Pepper Sauce,21.05,Condiments,False
+66,Louisiana Hot Spiced Okra,17.0,Condiments,False
+67,Laughing Lumberjack Lager,14.0,Beverages,False
+68,Scottish Longbreads,12.5,Confections,False
+69,Gudbrandsdalsost,36.0,Dairy Products,False
+70,Outback Lager,15.0,Beverages,False
+71,Flotemysost,21.5,Dairy Products,False
+72,Mozzarella di Giovanni,34.8,Dairy Products,False
+73,Röd Kaviar,15.0,Seafood,False
+74,Longlife Tofu,10.0,Produce,False
+75,Rhönbräu Klosterbier,7.75,Beverages,False
+76,Lakkalikööri,18.0,Beverages,False
+77,Original Frankfurter grüne Soße,13.0,Condiments,False
