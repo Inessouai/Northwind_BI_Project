@@ -74,4 +74,4 @@ Streamlit affiche l URL locale (par defaut `http://localhost:8504`). Les filtres
 
 
 ## Auteur
-Projet realise par Ines Souai (ING3 Securite Informatique). Pour toute question ou amelioration, ouvrir une issue ou contacter directement l auteur.
+Projet realise par Ines Souai (ING3 Securite Informatique).
