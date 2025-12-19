@@ -72,7 +72,6 @@ Streamlit affiche l URL locale (par defaut `http://localhost:8504`). Les filtres
 - `data/processed/dim_time.csv`
 - `data/processed/fact_sales.csv`
 
-Chaque fichier peut etre recharge dans un cube ou dans un outil externe (Power BI, Tableau, etc.) sans modification supplementaire.
 
 ## Auteur
 Projet realise par Ines Souai (ING3 Securite Informatique). Pour toute question ou amelioration, ouvrir une issue ou contacter directement l auteur.
